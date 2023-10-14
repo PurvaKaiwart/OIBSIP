@@ -7,8 +7,7 @@ Welcome to the "OIBSIP" repository, which contains a collection of data science 
 
 1.Iris Flower Classification
 
-     File: Iris_Flower_Classification.ipynb
-     Description: This project focuses on the classic Iris flower dataset, aiming to classify different species of iris flowers based on their features. The notebook explores data 
+     File:IRIS_FLOWER_CLASSIFICATION Description: This project focuses on the classic Iris flower dataset, aiming to classify different species of iris flowers based on their features. The notebook explores data 
      preprocessing, exploratory data analysis, and the implementation of machine learning algorithms for classification.
      
 2.Unemployment Analysis
