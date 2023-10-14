@@ -6,6 +6,8 @@ Welcome to the "OIBSIP" repository, which contains a collection of data science 
 # Projects
 
 # 1.Iris Flower Classification
+![1_lFC_U5j_Y8IXF4Ga87KNVg](https://github.com/PurvaKaiwart/OIBSIP/assets/114017551/6c1790fe-04e3-4f0b-a77d-bd1f718af38b)
+
 
 *File: Iris_Flower_Classification.ipynb 
 *Description: This repository contains a Python-based machine learning project for Iris flower classification using the famous Iris dataset. The project demonstrates the implementation of various classification algorithms to classify Iris flowers into their respective species, including Setosa, Versicolor, and Virginica.
