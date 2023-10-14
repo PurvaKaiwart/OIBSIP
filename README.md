@@ -13,6 +13,8 @@ Welcome to the "OIBSIP" repository, which contains a collection of data science 
 *Description: This repository contains a Python-based machine learning project for Iris flower classification using the famous Iris dataset. The project demonstrates the implementation of various classification algorithms to classify Iris flowers into their respective species, including Setosa, Versicolor, and Virginica.
 
 # 2.Unemployment Analysis
+![_113908611_image2](https://github.com/PurvaKaiwart/OIBSIP/assets/114017551/dc4fa9f7-8710-4e07-bd22-ad785940de24)
+
    
 #"*"File: Unemployment_Analysis.ipynb
 *Description: Explore and analyze unemployment trends and demographics with this data-driven project. Unemployment is a critical economic indicator, and this repository offers valuable insights through data analysis, visualization, and interpretation.
