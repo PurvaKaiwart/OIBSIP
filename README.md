@@ -20,9 +20,4 @@ Welcome to the "OIBSIP" repository, which contains a collection of data science 
 *Description: Explore and analyze unemployment trends and demographics with this data-driven project. Unemployment is a critical economic indicator, and this repository offers valuable insights through data analysis, visualization, and interpretation.
 
 
-# 3. Email spam detection with machine learning 
-spam.csv](https://github.com/PurvaKaiwart/OIBSIP/files/12908023/spam.csv)
-
-
-*file: Email_spam_detection.ipynb
-*Description: This project is dedicated to the task of accurately detecting and filtering out spam emails using advanced machine learning techniques. Email spam continues to be a significant challenge, and this repository offers a comprehensive solution to help you automatically identify and segregate spam from your email inbox
+#Car Price Prediction
